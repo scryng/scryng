@@ -22,21 +22,21 @@
 ###
 
 <div align="center">
-    <a href="https://www.lua.org/docs.html" target="_blank"><img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" /></a>
+    <a href="https://www.lua.org/docs.html" target="blank"><img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" /></a>
     <img width="12" /> 
-    <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" /></a>
+    <a href="https://docs.oracle.com/en/java/" target="blank"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" /></a>
     <img width="12" /> 
-    <a href="https://docs.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></a>
+    <a href="https://docs.python.org/" target="blank"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></a>
     <img width="12" /> 
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" /></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="blank"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" /></a>
     <img width="12" /> 
-    <a href="https://learn.microsoft.com/pt-br/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" /></a>
+    <a href="https://learn.microsoft.com/pt-br/cpp/" target="blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" /></a>
     <img width="12" /> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
     <img width="12" /> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
     <img width="12" /> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></a>
 </div>
 
 ###
@@ -46,29 +46,29 @@
 ###
 
 <div align="center">
-    <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
+    <a href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
     <img width="12" /> 
-    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="blank"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" /></a>
     <img width="12" /> 
-    <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" /></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/" target="blank"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" /></a>
     <img width="12" /> 
-    <a href="https://docs.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></a>
+    <a href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></a>
     <img width="12" /> 
-    <a href="https://cloud.google.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" /></a>
+    <a href="https://cloud.google.com/docs" target="blank"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" /></a>
     <img width="12" /> 
-    <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" /></a>
+    <a href="https://www.postgresql.org/docs/" target="blank"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" /></a>
     <img width="12" /> 
-    <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" /></a>
+    <a href="https://www.mongodb.com/docs/" target="blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" /></a>
     <img width="12" /> 
-    <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></a>
+    <a href="https://nodejs.org/en/docs/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></a>
     <img width="12" /> 
-    <a href="https://react.dev/learn" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /></a>
+    <a href="https://react.dev/learn" target="blank"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /></a>
     <img width="12" /> 
-    <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" /></a>
+    <a href="https://kubernetes.io/docs/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" /></a>
     <img width="12" /> 
-    <a href="https://www.rabbitmq.com/documentation.html" target="_blank"><img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  /></a>
+    <a href="https://www.rabbitmq.com/documentation.html" target="blank"><img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  /></a>
     <img width="12" /> 
-    <a href="https://redis.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  /></a>
+    <a href="https://redis.io/docs/" target="blank"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  /></a>
 </div>
 
 ###
@@ -78,19 +78,19 @@
 ###
 
 <div align="center">
-    <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" /></a>
+    <a href="https://www.figma.com" target="blank"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" /></a>
     <img width="12" /> 
-    <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" /></a>
+    <a href="https://www.adobe.com/br/products/photoshop.html" target="blank"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" /></a>
     <img width="12" /> 
-    <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" /></a>
+    <a href="https://code.visualstudio.com" target="blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" /></a>
     <img width="12" /> 
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" /></a>
+    <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" /></a>
     <img width="12" /> 
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" /></a>
+    <a href="https://www.jetbrains.com/idea/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" /></a>
     <img width="12" /> 
-    <a href="https://discord.com" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" /></a>
+    <a href="https://discord.com" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" /></a>
     <img width="12" /> 
-    <a href="https://www.microsoft.com/pt-br/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" /></a>
+    <a href="https://www.microsoft.com/pt-br/windows/" target="blank"><img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" /></a>
 </div>
 
 ###
